@@ -6,6 +6,10 @@ h1 {
   color: black;
   text-align: center;
 }
+a{
+  font-size: x-large;
+  font-weight: bolder ;
+}
 .assign {
   display: flex; 
   padding: 10px; 
